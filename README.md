@@ -5,7 +5,7 @@ _And this one time, on the internet, I found a missle launch site, by accident..
 On 6 January 2025 the [DPRK](https://en.wikipedia.org/wiki/North_Korea) test fired an intermediate-range ballistic missile (IRBM) and provided a georgous video set to ominous music of the launch (via [@martynw.bsky.social](https://bsky.app/profile/martynw.bsky.social/post/3lf4ojgjahc2j)). 
 
 
-<video controls>
+<video width="600" controls>
   <source src="https://raw.githubusercontent.com/gr0k3/dprk-irbm-20250106/main/launch.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -21,13 +21,13 @@ Here are some stills from video marked up with matching features from the [Googl
 - The seasons are different - its warmer in Google's image than the launch video, which means more ice in the river.
 - Structures have been demolished around the launch pad - likely to be to ease access to the pad area for large trucks.
 
-<img src="launch-still1.png">
+<img width="600" src="launch-still1.png">
 <br/>
-<img src="launch-still2.png">
+<img width="600" src="launch-still2.png">
 <br/>
-<img src="launch-still3.png">
+<img width="600" src="launch-still3.png">
 <br/>
-<img src="launch-still4.png">
+<img width="600" src="launch-still4.png">
 <br/>
 
 There are enough similarities between the site that I'm confident they're the same, but there are some reasons to doubt:
