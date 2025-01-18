@@ -13,7 +13,7 @@ On 6 January 2025 the [DPRK](https://en.wikipedia.org/wiki/North_Korea) test fir
 # Where is the launch site?
 Aljazera reports the hypersonic missile was fired from the [outskirts of Pyongyang](https://www.aljazeera.com/news/2025/1/7/north-korea-says-test-of-new-hypersonic-missile-successful) and those georgous videos got me wondering if I could find the launch site. I started by looking for rivers around [Pyongyang](https://en.wikipedia.org/wiki/Pyongyang) with features similar to those on the video and got lucky with [this site](https://maps.app.goo.gl/BT1pjZ7qVvSRSTdPA) on the [Taedong River](https://en.wikipedia.org/wiki/Taedong_River) (the map oriented so north is up and numbers are identified on stills from the launch video below).
 
-<img src="launch-site.png">
+<img width="600" src="launch-site.png">
 
 For convenience I'm calling the site "Blinken-Taedon" in reference to the suggestion from Aljazera that the launch had something to do with a visit to South Korea by US Secretary of State Antony Blinken. 
 
@@ -34,4 +34,4 @@ There are enough similarities between the site that I'm confident they're the sa
 1. I have no skills/qualifications in geolocation or knowledge of DPRK and its missle launches, just an enthusiastic amateur. 
 2. "Blinken-Taedon" is amazingly close to Pyongyang (<25km according to Google Maps)
 
-<img src="distance-to-downtown-pyongyang.png">
+<img width="600" src="distance-to-downtown-pyongyang.png">
