@@ -4,10 +4,10 @@ _And this one time, on the internet, I found a missle launch site, by accident..
 
 On 6 January 2025 the [DPRK](https://en.wikipedia.org/wiki/North_Korea) test fired an intermediate-range ballistic missile (IRBM) and provided a georgous video set to ominous music of the launch (via [@martynw.bsky.social](https://bsky.app/profile/martynw.bsky.social/post/3lf4ojgjahc2j)). 
 
-<video controls width="600">
+<video width="600" controls>
   <source src="https://github.com/gr0k3/dprk-irbm-20250106/blob/85aeee99fa8e8458e49e30a368fefc9dc353fdb7/launch.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
+
 
 # Where is the launch site?
 Aljazera reports the hypersonic missile was fired from the [outskirts of Pyongyang](https://www.aljazeera.com/news/2025/1/7/north-korea-says-test-of-new-hypersonic-missile-successful) and those georgous videos got me wondering if I could find the launch site. I started by looking for rivers around [Pyongyang](https://en.wikipedia.org/wiki/Pyongyang) with features similar to those on the video and got lucky with [this site](https://maps.app.goo.gl/BT1pjZ7qVvSRSTdPA) on the [Taedong River](https://en.wikipedia.org/wiki/Taedong_River) (the map oriented so north is up and numbers are identified on stills from the launch video below).
