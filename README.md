@@ -5,7 +5,7 @@ _And this one time, on the internet, I found a missle launch site, by accident..
 On 6 January 2025 the [DPRK](https://en.wikipedia.org/wiki/North_Korea) test fired an intermediate-range ballistic missile (IRBM) and provided a georgous video set to ominous music of the launch (via [@martynw.bsky.social](https://bsky.app/profile/martynw.bsky.social/post/3lf4ojgjahc2j)). 
 
 
-<video width="320" height="240" controls>
+<video width="600" controls>
   <source src="https://raw.githubusercontent.com/gr0k3/dprk-irbm-20250106/main/launch.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
