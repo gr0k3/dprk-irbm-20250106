@@ -6,7 +6,7 @@ On 6 January 2025 the [DPRK](https://en.wikipedia.org/wiki/North_Korea) test fir
 
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/gr0k3/dprk-irbm-20250106/blob/main/launch.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/gr0k3/dprk-irbm-20250106/main/launch.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
